@@ -75,13 +75,13 @@ z = null;
 let leakyRef = [];
 
 document.getElementById("allocate").onclick = () => {
-    for (let i = 0; i < 100; i++) {
-        let arr = new Array(1000000).fill("hello world " + i);
+    for (let i = 0; i < 10000; i++) {
+        let arr = new Array(10000).fill("hello world " + i);
         leakyRef.push(arr);
     }
     const getElementByid = document.getElementById("allocate");
-    getElementByid.innerHTML = 'Allocated 1000000 large arrays';
-    console.log("Allocated 1000000 large arrays");
+    getElementByid.innerHTML = 'Allocated 10000 large arrays';
+    console.log("Allocated 1000 large arrays");
 };
 
 document.getElementById("clear").onclick = () => {
