@@ -45,7 +45,7 @@ console.log(newGenerator.next().value);
 console.log(newGenerator.next().value);
 
 
-// Anonymus Function
+// Anonymous Function
 
 let number = [1,2,3,4,5,6,7,8,9].map((n)=> n*n)
 console.log(number);
