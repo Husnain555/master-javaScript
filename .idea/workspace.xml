@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4327b845-de34-418e-a1a7-4429a256a2ee" name="Changes" comment="learn graphql apis">
+      <change afterPath="$PROJECT_DIR$/Notations/protobuf/employeee.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notations/protobuf/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notations/protobuf/index2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +60,7 @@
     "Node.js.garbagecollection.js.executor": "Debug",
     "Node.js.index.js (1).executor": "Run",
     "Node.js.index.js.executor": "Run",
+    "Node.js.index2.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -72,6 +76,7 @@
     "nodejs_package_manager_path": "npm",
     "npm.dev (1).executor": "Run",
     "npm.dev.executor": "Run",
+    "npm.proto:gen.executor": "Run",
     "ts.external.directory.path": "/Users/husnainbabar/code/projects/master-javaScript/resend-email-hosting-test/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -81,14 +86,17 @@
       <recent name="$PROJECT_DIR$/master api's/websockets/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Notations/protobuf" />
       <recent name="$PROJECT_DIR$/Learn_Api/graph_ql/back_end" />
       <recent name="$PROJECT_DIR$/Learn_Api" />
       <recent name="$PROJECT_DIR$/master api's/websockets" />
       <recent name="$PROJECT_DIR$/master api's/websockets/public" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev (1)">
+  <component name="RunManager" selected="Node.js.index2.js">
+    <configuration name="index2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Notations/protobuf/index2.js" working-dir="$PROJECT_DIR$/Notations/protobuf">
+      <method v="2" />
+    </configuration>
     <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/object_creation /index.js" working-dir="$PROJECT_DIR$/object_creation">
       <method v="2" />
     </configuration>
@@ -115,12 +123,23 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="proto:gen" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/Notations/protobuf/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="proto:gen" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.index2.js" />
+        <item itemvalue="npm.proto:gen" />
         <item itemvalue="npm.dev (1)" />
         <item itemvalue="Node.js.index.js (1)" />
         <item itemvalue="Node.js.index.js" />
-        <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +175,7 @@
       <workItem from="1758006354043" duration="9000" />
       <workItem from="1758009037185" duration="8939000" />
       <workItem from="1758091807750" duration="810000" />
-      <workItem from="1758092655569" duration="8280000" />
+      <workItem from="1758092655569" duration="13003000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -262,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758100846470</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="learn graphql apis">
+      <option name="closed" value="true" />
+      <created>1758102860551</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1758102860551</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
