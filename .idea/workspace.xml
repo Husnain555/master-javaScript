@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4327b845-de34-418e-a1a7-4429a256a2ee" name="Changes" comment="learn graphql apis">
-      <change afterPath="$PROJECT_DIR$/communications/Learn_Api/gRPC/BE/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communications/Learn_Api/gRPC/BE/todo.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +156,7 @@
       <workItem from="1758006354043" duration="9000" />
       <workItem from="1758009037185" duration="8939000" />
       <workItem from="1758091807750" duration="810000" />
-      <workItem from="1758092655569" duration="7020000" />
+      <workItem from="1758092655569" duration="8280000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -257,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758091832175</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="learn graphql apis">
+      <option name="closed" value="true" />
+      <created>1758100846470</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1758100846470</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
