@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4327b845-de34-418e-a1a7-4429a256a2ee" name="Changes" comment="learn graphql apis" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+        <option value="TypeScript JSX File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Husnain555&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Husnain555/master-javaScript.git&quot;,
+    &quot;accountId&quot;: &quot;af859e35-481a-429b-b51e-ebd519511f4d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="30JOpr81BxWv7wWHZ3MiRXfgg1v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.garbageCollector.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.closers.js.executor": "Run",
+    "Node.js.garbagecollection.js.executor": "Debug",
+    "Node.js.index.js (1).executor": "Run",
+    "Node.js.index.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "24.3.0",
+    "javascript.nodejs.core.library.typings.version": "24.1.0",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/husnainbabar/code/projects/master-javaScript/master api's/websockets/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev (1).executor": "Run",
+    "npm.dev.executor": "Run",
+    "ts.external.directory.path": "/Users/husnainbabar/code/projects/master-javaScript/Learn_Api/graph_ql/front_end/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/master api's/websockets/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Learn_Api/graph_ql/back_end" />
+      <recent name="$PROJECT_DIR$/Learn_Api" />
+      <recent name="$PROJECT_DIR$/master api's/websockets" />
+      <recent name="$PROJECT_DIR$/master api's/websockets/public" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev (1)">
+    <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/object_creation /index.js" working-dir="$PROJECT_DIR$/object_creation">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/object_creation /index.js" working-dir="$PROJECT_DIR$/object_creation">
+      <method v="2" />
+    </configuration>
+    <configuration name="dev (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/Learn_Api/graph_ql/front_end/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/resend-email-hosting-test/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev (1)" />
+        <item itemvalue="Node.js.index.js (1)" />
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4327b845-de34-418e-a1a7-4429a256a2ee" name="Changes" comment="" />
+      <created>1753342394107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753342394107</updated>
+      <workItem from="1753342395176" duration="6515000" />
+      <workItem from="1753433659011" duration="598000" />
+      <workItem from="1753440712536" duration="601000" />
+      <workItem from="1753449219695" duration="734000" />
+      <workItem from="1753684002439" duration="4000" />
+      <workItem from="1753705008071" duration="1520000" />
+      <workItem from="1753709479960" duration="3000" />
+      <workItem from="1753793540316" duration="628000" />
+      <workItem from="1754041148653" duration="4065000" />
+      <workItem from="1757423600338" duration="601000" />
+      <workItem from="1757573453398" duration="3761000" />
+      <workItem from="1757584982983" duration="3675000" />
+      <workItem from="1757660235110" duration="6743000" />
+      <workItem from="1757686146205" duration="136000" />
+      <workItem from="1757921259115" duration="14216000" />
+      <workItem from="1758006354043" duration="9000" />
+      <workItem from="1758009037185" duration="8939000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1753347421986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753347421986</updated>
+    </task>
+    <task id="LOCAL-00002" summary="leanr how to implement resend email hosting provider">
+      <option name="closed" value="true" />
+      <created>1754049394900</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754049394900</updated>
+    </task>
+    <task id="LOCAL-00003" summary="function declaration methods">
+      <option name="closed" value="true" />
+      <created>1757576774563</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757576774563</updated>
+    </task>
+    <task id="LOCAL-00004" summary="function declaration methods">
+      <option name="closed" value="true" />
+      <created>1757576800877</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757576800877</updated>
+    </task>
+    <task id="LOCAL-00005" summary="function declaration methods">
+      <option name="closed" value="true" />
+      <created>1757661203690</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757661203690</updated>
+    </task>
+    <task id="LOCAL-00006" summary="function declaration methods">
+      <option name="closed" value="true" />
+      <created>1757686233881</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757686233881</updated>
+    </task>
+    <task id="LOCAL-00007" summary="function declaration methods">
+      <option name="closed" value="true" />
+      <created>1757686283763</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757686283763</updated>
+    </task>
+    <task id="LOCAL-00008" summary="function declaration methods">
+      <option name="closed" value="true" />
+      <created>1757927066807</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757927066807</updated>
+    </task>
+    <task id="LOCAL-00009" summary="learn graphql apis">
+      <option name="closed" value="true" />
+      <created>1757945812408</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757945812408</updated>
+    </task>
+    <task id="LOCAL-00010" summary="learn graphql apis">
+      <option name="closed" value="true" />
+      <created>1758033724141</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1758033724141</updated>
+    </task>
+    <task id="LOCAL-00011" summary="learn graphql apis">
+      <option name="closed" value="true" />
+      <created>1758033771883</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1758033771883</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Basic-socket-base-chat-app/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="leanr how to implement resend email hosting provider" />
+    <MESSAGE value="function declaration methods" />
+    <MESSAGE value="learn graphql apis" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn graphql apis" />
+  </component>
+</project>
