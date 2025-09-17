@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4327b845-de34-418e-a1a7-4429a256a2ee" name="Changes" comment="learn graphql apis" />
+    <list default="true" id="4327b845-de34-418e-a1a7-4429a256a2ee" name="Changes" comment="learn graphql apis">
+      <change afterPath="$PROJECT_DIR$/communications/Learn_Api/gRPC/BE/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/communications/Learn_Api/gRPC/BE/todo.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +75,7 @@
     "nodejs_package_manager_path": "npm",
     "npm.dev (1).executor": "Run",
     "npm.dev.executor": "Run",
-    "ts.external.directory.path": "/Users/husnainbabar/code/projects/master-javaScript/Learn_Api/graph_ql/front_end/node_modules/typescript/lib",
+    "ts.external.directory.path": "/Users/husnainbabar/code/projects/master-javaScript/resend-email-hosting-test/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -153,6 +158,8 @@
       <workItem from="1757921259115" duration="14216000" />
       <workItem from="1758006354043" duration="9000" />
       <workItem from="1758009037185" duration="8939000" />
+      <workItem from="1758091807750" duration="810000" />
+      <workItem from="1758092655569" duration="7020000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -242,16 +249,19 @@
       <option name="project" value="LOCAL" />
       <updated>1758033771883</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="learn graphql apis">
+      <option name="closed" value="true" />
+      <created>1758091832175</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1758091832175</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/Basic-socket-base-chat-app/main.js" />
-      </list>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
