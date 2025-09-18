@@ -8,12 +8,16 @@ app.get("/", (req, res) => {
 
 app.get("/stream", (req, res) => {
     res.header("content-type", "text/event-stream");
+    res.setHeader("Access-Control-Allow-Origin", "*");
+
     // res.write("data: "+"Hello World!\n\n");
     send(res);
 })
 let i = 0
 function send(res){
-    res.write("data: " + `${++i} Hello World!\n\n");`)
+    res.write(`event: notification\n`);
+
+    res.write("data: " + `${++i} Hello World!\n\n";`)
     console.log(i,'i')
     setTimeout(()=> send(res),1000)
 }

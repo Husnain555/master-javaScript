@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SSE Frontend Example</title>
+</head>
+<body>
+<h1>Server-Sent Events Demo</h1>
+<ul id="messages"></ul>
+
+<script>
+    const messagesList = document.getElementById('messages');
+    const eventSource = new EventSource('http://localhost:3000/stream');
+
+    eventSource.onopen = () => {
+    console.log('SSE connection opened.');
+};
+
+    eventSource.onmessage = (event) => {
+    const newItem = document.createElement('li');
+    newItem.textContent = `Generic Message: ${event.data}`;
+    messagesList.appendChild(newItem);
+};
+
+    eventSource.addEventListener('notification', (event) => {
+    const newItem = document.createElement('li');
+    newItem.textContent = `Notification: ${event.data}`;
+    messagesList.appendChild(newItem);
+});
+
+    eventSource.onerror = (error) => {
+    console.error('SSE Error:', error);
+    eventSource.close(); // Close on error and potentially retry
+};
+
+    // Example of closing the connection on a button click
+    // const closeButton = document.getElementById('close-sse');
+    // closeButton.addEventListener('click', () => {
+    //     eventSource.close();
+    //     console.log('SSE connection closed.');
+    // });
+    </script>
+    </body>
+    </html>
