@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4327b845-de34-418e-a1a7-4429a256a2ee" name="Changes" comment="server send events">
-      <change afterPath="$PROJECT_DIR$/communications/Learn_Api/server_send_events/client.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/communications/Learn_Api/server_send_events/client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/communications/Learn_Api/server_send_events/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/communications/Learn_Api/server_send_events/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_creation /index.js" beforeDir="false" afterPath="$PROJECT_DIR$/object_creation /index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,38 +48,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.garbageCollector.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Node.js.closers.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.garbagecollection.js.executor&quot;: &quot;Debug&quot;,
-    &quot;Node.js.index.js (1).executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.index.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.index2.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;24.3.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;24.1.0&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/husnainbabar/code/projects/master-javaScript/master api's/websockets/public&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.dev (1).executor&quot;: &quot;Run&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;npm.proto:gen.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;tools.buf&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/husnainbabar/code/projects/master-javaScript/Notations/protobuf/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.garbageCollector.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.closers.js.executor": "Run",
+    "Node.js.garbagecollection.js.executor": "Debug",
+    "Node.js.index.js (1).executor": "Run",
+    "Node.js.index.js.executor": "Run",
+    "Node.js.index2.js.executor": "Run",
+    "Node.js.index2.ts.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "24.5.0",
+    "javascript.nodejs.core.library.typings.version": "24.5.2",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/husnainbabar/code/projects/master-javaScript/master api's/websockets/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev (1).executor": "Run",
+    "npm.dev.executor": "Run",
+    "npm.proto:gen.executor": "Run",
+    "settings.editor.selected.configurable": "tools.buf",
+    "ts.external.directory.path": "/Users/husnainbabar/code/projects/master-javaScript/Notations/protobuf/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/master api's/websockets/public" />
@@ -94,7 +93,7 @@
       <recent name="$PROJECT_DIR$/Learn_Api" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.index2.ts">
+  <component name="RunManager">
     <configuration name="index2.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Notations/protobuf/index2.ts" working-dir="$PROJECT_DIR$/Notations/protobuf">
       <method v="2" />
     </configuration>
@@ -177,7 +176,9 @@
       <workItem from="1758009037185" duration="8939000" />
       <workItem from="1758091807750" duration="810000" />
       <workItem from="1758092655569" duration="19843000" />
-      <workItem from="1758178509982" duration="8111000" />
+      <workItem from="1758178509982" duration="17673000" />
+      <workItem from="1758279917832" duration="12000" />
+      <workItem from="1758696660541" duration="5880000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -315,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758186175210</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="server send events">
+      <option name="closed" value="true" />
+      <created>1758188194327</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1758188194327</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
