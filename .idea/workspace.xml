@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4327b845-de34-418e-a1a7-4429a256a2ee" name="Changes" comment="proto types in js" />
+    <list default="true" id="4327b845-de34-418e-a1a7-4429a256a2ee" name="Changes" comment="proto types in js">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +177,7 @@
       <workItem from="1758092655569" duration="19843000" />
       <workItem from="1758178509982" duration="17673000" />
       <workItem from="1758279917832" duration="12000" />
-      <workItem from="1758696660541" duration="7739000" />
+      <workItem from="1758696660541" duration="11231000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -337,7 +339,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758706098449</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="proto types in js">
+      <option name="closed" value="true" />
+      <created>1758721945078</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1758721945078</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,5 +363,17 @@
     <MESSAGE value="object creation methods" />
     <MESSAGE value="proto types in js" />
     <option name="LAST_COMMIT_MESSAGE" value="proto types in js" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/prototype_chain/index.js</url>
+          <line>18</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
